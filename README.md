@@ -1,5 +1,5 @@
 # DevOps Training Series by DevOps.lk
-Devops Sri Lanka Training Plan for 2024
+DevOps Sri Lanka Training Plan for 2024
 
 DevOps Training Plan:
 1. Introduction to DevOps:
@@ -49,7 +49,7 @@ DevOps Training Plan:
 9. Monitoring and Logging:
 
     Implementing logging and monitoring solutions.
-    Introduction to tools like Prometheus, Grafana, ELK stack.
+    Introduction to tools like Prometheus, Grafana, and ELK stack.
     Setting up alerts and dashboards for the application.
 
 10. Collaborative Tools and Communication:
@@ -114,3 +114,5 @@ Collaborative Project: MIDI File Website with Player
     Review the DevOps practices implemented during the project.
 
 This plan provides a structured approach to DevOps training while concurrently building a collaborative MIDI file website project. Adjustments can be made based on the team's experience level and specific project requirements.
+
+Adding hands-on experience with relevant technologies and tools, this effort much more beneficial to beginners. 
